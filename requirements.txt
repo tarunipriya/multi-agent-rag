@@ -1,0 +1,14 @@
+anthropic
+langchain
+langchain-anthropic
+langchain-community
+chromadb
+sentence-transformers
+tavily-python
+beautifulsoup4
+requests
+fastapi
+uvicorn
+streamlit
+python-dotenv
+pymupdf
